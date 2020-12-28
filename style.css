@@ -89,8 +89,6 @@ ul {
 }
 .container {
   margin-top: 70px;
-  border: 1px solid #cacaca;
-  border-radius: 5px;
   background-color: linear-gradient(330deg, rgba(0, 0, 0, 1), rgba(0, 0, 0, 0.5));
   padding: 15px;
   color: #cacaca;
